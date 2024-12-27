@@ -1,7 +1,7 @@
 # Reverse Shell Simulation Lab
 
 ## **Project Report**
-Ethical Hacking and Reverse Shell Analysis
+Reverse Shell Simulation Lab
 
 
 ---
@@ -13,7 +13,7 @@ Setting Up and Analyzing a Reverse Shell in a Simulated Internal Network
 
 ### **Introduction**
 
-This project explores the setup and execution of a reverse shell attack in a controlled environment. By simulating such a scenario, cybersecurity professionals can better understand how attackers exploit vulnerabilities to gain unauthorized access to systems. The insights gained from this exercise will help strengthen defensive strategies and promote awareness of potential risks. All activities were conducted ethically within an isolated environment.
+This lab project explores the setup and execution of a reverse shell attack in a controlled environment. By simulating such a scenario, cybersecurity professionals can better understand how attackers exploit vulnerabilities to gain unauthorized access to systems. The insights gained from this exercise will help strengthen defensive strategies and promote awareness of potential risks. All activities were conducted ethically within an isolated environment.
 
 ---
 
@@ -202,4 +202,4 @@ A reverse shell payload is a malicious program that initiates a connection back 
 
 ### **Conclusion**
 
-This project highlights the critical need for proactive measures to protect systems against reverse shell attacks. By understanding the techniques used by attackers, cybersecurity professionals can better safeguard networks and educate stakeholders on mitigating risk
+This lab project highlights the critical need for proactive measures to protect systems against reverse shell attacks. By understanding the techniques used by attackers, cybersecurity professionals can better safeguard networks and educate stakeholders on mitigating risk
