@@ -1,4 +1,4 @@
-# Ethical Hacking and Reverse Shell Analysis
+# Reverse Shell Simulation Lab
 
 ## **Project Report**
 Ethical Hacking and Reverse Shell Analysis
